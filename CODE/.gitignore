@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+<<<<<<< HEAD
+./env
+=======
+env
+.env
+>>>>>>> 3556f226b53c1062e9933f729073a20308aa7725

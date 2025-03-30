@@ -1,1 +1,3 @@
 /build
+env
+/app/src/main/assets/env

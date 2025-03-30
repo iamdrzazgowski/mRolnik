@@ -1,4 +1,4 @@
-package com.example.mrolnik
+package com.example.mrolnik.screen
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.Button
